@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3bb7d3ffc66db117604d8ea294e1061a",
+    "revision": "ba91dfdf0ed38a764fa7221612e13a34",
     "url": "/bhangadiyas.github.io/index.html"
   },
   {
-    "revision": "c026d1a60bad807464e3",
+    "revision": "06303b4805a38757eeb6",
     "url": "/bhangadiyas.github.io/static/css/main.f0a03761.chunk.css"
   },
   {
-    "revision": "4eb44cd8c481660648c6",
-    "url": "/bhangadiyas.github.io/static/js/2.9fe4fa32.chunk.js"
+    "revision": "4f66a96c934aa5eabcca",
+    "url": "/bhangadiyas.github.io/static/js/2.16305eb7.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/bhangadiyas.github.io/static/js/2.9fe4fa32.chunk.js.LICENSE.txt"
+    "url": "/bhangadiyas.github.io/static/js/2.16305eb7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c026d1a60bad807464e3",
-    "url": "/bhangadiyas.github.io/static/js/main.aea2ff7c.chunk.js"
+    "revision": "06303b4805a38757eeb6",
+    "url": "/bhangadiyas.github.io/static/js/main.10a0cb5c.chunk.js"
   },
   {
     "revision": "80017bd5e219348782f7",
