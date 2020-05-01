@@ -16,8 +16,8 @@ class Contact extends Component {
       <div>
         <div className='contact'>
           <h1>Contact Me</h1>
-          <p>You can reach me via email: <strong>hello@example.com</strong></p>
-          <h1>Link</h1>
+          <p>You can reach me via email: <strong>pratikagrawal2008@gmail.com</strong></p>
+          <h2>Remote Link</h2>
           <a
             className="App-link"
             href="https://pratik-08.github.io/bhangadiyas.github.io/"
